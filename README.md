@@ -79,7 +79,7 @@ Gmail Trigger → AI Agent → Google Gemini → Structured Output Parser → IF
 ## Technologies Used
 
 - [n8n](https://n8n.io/)
-- [Google Gemini](https://ai.google.dev/)
+- [Google Gemini API Key](https://ai.google.dev/)
 - [Gmail](https://mail.google.com/)
 - AI Agent
 - Structured Output Parser
