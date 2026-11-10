@@ -209,7 +209,7 @@
             {
               "id": "6ecc0318-9e8e-40ec-ac84-d58ade718cfb",
               "leftValue": "={{ $json.output.category }}",
-              "rightValue": "=Miscellaneous",
+              "rightValue": "=Legal & Compliance",
               "operator": {
                 "type": "string",
                 "operation": "equals"
@@ -585,7 +585,7 @@
     "executionOrder": "v1",
     "binaryMode": "separate"
   },
-  "versionId": "bba37288-a8b8-4008-8ade-c2596c8d285b",
+  "versionId": "e6b67718-7245-49fe-aa09-9881918db4c4",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "5b367fb8c8b66a7d47f809b1e16db4098c06ecc6b7f09e9f3bdb39e9350f2870"
