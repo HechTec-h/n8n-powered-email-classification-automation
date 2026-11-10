@@ -1,0 +1,34 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Credentials and sensitive files
+credentials.json
+secrets.json
+*.pem
+*.key
+
+# n8n local data
+.n8n/
+n8n_data/
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Code editors
+.vscode/
+.idea/
